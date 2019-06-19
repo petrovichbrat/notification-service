@@ -1,0 +1,13 @@
+notificationservice\component\EmailSender.class
+notificationservice\model\enums\ChannelKind.class
+notificationservice\model\PushNotification.class
+notificationservice\model\SmsMessage.class
+notificationservice\component\Sender.class
+notificationservice\component\SenderFactory$1.class
+notificationservice\component\SmsSender.class
+notificationservice\model\Message.class
+notificationservice\component\PushNotificationSender.class
+notificationservice\component\SenderFactory.class
+Application.class
+notificationservice\service\Notificator.class
+notificationservice\model\EmailMessage.class

@@ -1,0 +1,12 @@
+C:\notification-service\src\main\java\notificationservice\model\EmailMessage.java
+C:\notification-service\src\main\java\notificationservice\service\Notificator.java
+C:\notification-service\src\main\java\notificationservice\model\PushNotification.java
+C:\notification-service\src\main\java\notificationservice\model\Message.java
+C:\notification-service\src\main\java\notificationservice\component\SenderFactory.java
+C:\notification-service\src\main\java\notificationservice\component\SmsSender.java
+C:\notification-service\src\main\java\notificationservice\model\enums\ChannelKind.java
+C:\notification-service\src\main\java\notificationservice\component\Sender.java
+C:\notification-service\src\main\java\notificationservice\model\SmsMessage.java
+C:\notification-service\src\main\java\notificationservice\component\EmailSender.java
+C:\notification-service\src\main\java\notificationservice\component\PushNotificationSender.java
+C:\notification-service\src\main\java\Application.java
